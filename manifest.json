@@ -1,0 +1,17 @@
+{
+  "name": "SB Servizi Gestionale",
+  "short_name": "SB Servizi",
+  "description": "Gestionale preventivi e sopralluoghi SB Servizi",
+  "start_url": "/sbmultiservizi-pwa/",
+  "scope": "/sbmultiservizi-pwa/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#070C0A",
+  "theme_color": "#070C0A",
+  "lang": "it",
+  "icons": [
+    { "src": "/sbmultiservizi-pwa/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/sbmultiservizi-pwa/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/sbmultiservizi-pwa/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
